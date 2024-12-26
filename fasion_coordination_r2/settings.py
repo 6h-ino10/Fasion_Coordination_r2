@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'coordination_app',
     'users',
+    'django_bootstrap5',
 ]
 
 MIDDLEWARE = [
